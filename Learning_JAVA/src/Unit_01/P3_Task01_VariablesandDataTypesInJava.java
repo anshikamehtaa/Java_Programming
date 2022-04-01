@@ -4,16 +4,18 @@ package Unit_01;
  
  Types of variables:
  -In Java,there are three types of variables:
-      Local Variables-declared inside the body of a methods
-      Instance Variables-Instances variables are defined without the static keyword.
-      -They are defined outside a method declaration
-      --They are object specific and are known as instance variables.
+     >Local Variables-declared inside the body of a methods
+      
+      >Instance Variables-Instances variables are defined without the static keyword.
+        -They are defined outside a method declaration
+        -They are object specific and are known as instance variables.
       
       
-      Static Variables 
-      Static Variables-Instances variables are defined with the static keyword.
-      Static variables are initialized only once,at the start of the program execution.
-      -These static variables should be insitialized first,before the initialization of any instance variable
+      >Static Variables:
+       
+       -Static Variables-Instances variables are defined with the static keyword.
+       -Static variables are initialized only once,at the start of the program execution.
+       -These static variables should be insitialized first,before the initialization of any instance variable
       
  -Data Types in Java?
  .Reference OneNote
@@ -63,7 +65,11 @@ public class P3_Task01_VariablesandDataTypesInJava {
 		System.out.println(myText);
 		
 		/*
-		 * Java Variable Type Conversion & Type Casting: Details are in OneNote
+		 * Java Variable Type Conversion & Type Casting: 
+		 * Variable of smaller capacity can be assigned to another variables of bigger capacity 
+		 *   >This process is automatic and non explicit known as type conversion
+		 * When variables of larger capacity is to be assigned to another variable of smaller capacity.
+		 *  >We explicitly specify the type cast operator.This process is called type casting
 		 */
 		
 		double f;

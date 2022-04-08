@@ -22,7 +22,7 @@ package Unit_01;
       
  */
 
-public class P3_Task01_VariablesandDataTypesInJava {
+public class P3_task01_VariablesAndDataTypesInJava {
 	
 	static int q = 11;
 	int p = 10;
@@ -167,3 +167,4 @@ class ABC1{
 		System.out.println(j);
 	}
 }
+

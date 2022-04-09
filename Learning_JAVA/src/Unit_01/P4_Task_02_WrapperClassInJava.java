@@ -4,7 +4,7 @@ package Unit_01;
  * Because we want to use pre defined methods of those objects 
  * - boolean data types -> Boolean obj -> obj.toString();
  */
-public class P4_task02_WrapperClassInJava {
+public class P4_Task_02_WrapperClassInJava {
 	public static void main(String[] args) {
 		
 		//Converting int to Integer

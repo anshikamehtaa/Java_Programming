@@ -3,6 +3,7 @@ package Unit_01;
 public class P5_Task_01_ClassAndObjectsInJava {
 	public static void main(String[] args) {
 		ABCD obj = new ABCD();
+		//because the display is static in nature we can call it directly be class name 
 		obj.display();
 		
 		ABCD.display();

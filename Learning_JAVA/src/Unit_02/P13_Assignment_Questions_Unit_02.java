@@ -1,7 +1,7 @@
 package Unit_02;
 
 
-public class P13_Assignment_Questions_unit_02 {
+public class P13_Assignment_Questions_Unit_02 {
 
 	public static void main(String[] args) {
 		Assignment_Questions_unit_02 obj = new Assignment_Questions_unit_02();
